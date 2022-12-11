@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "require": {
-    "php": "^7.4.0",
+    "php": "^8.1.0",
     "ext-bcmath": "*",
     "furqansiddiqui/http-client": "0.4.5",
     "furqansiddiqui/bip39-mnemonic-php": "0.1.1"
